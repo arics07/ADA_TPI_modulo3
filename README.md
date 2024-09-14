@@ -9,6 +9,10 @@ La API permite manejar datos relacionados con libros, autores y editoriales, y p
 ## Instrucciones para Ejecutar 🚀 
 
 npm start
+
+## Estructura del proyecto 🗺️
+
+![Mapa del proyecto](https://i.imgur.com/E7LwQ0v.png)
 <!--
 ## Uso 🔧
 
