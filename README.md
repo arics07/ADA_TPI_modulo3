@@ -47,7 +47,7 @@ Una vez que la aplicación esté en ejecución, verás el Menú Principal:
 
 
 
-### Opción 1: Leer
+### Opción 1: Leer 📖
 
 Al ingresar **1** desde el Menú Principal, se mostrará el Menú Leer: 
 
@@ -71,7 +71,7 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
 
   
 
-### Opción 2: Escribir
+### Opción 2: Escribir 📝
 
 Al ingresar **2** desde el Menú Principal, se mostrará el Menú Escribir: 
 
@@ -95,6 +95,35 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
   Por ejemplo, si se quiere ingresar la editorial Planeta de España, el comando que se debe ingresar es:
   
   `ADD PUBLISHER {"name": "Planeta", "counrtry": "Espana"}`
+
+
+### Errores al Agregar Información 🚨
+
+- Qué pasa si desde el Menú Principal ingreso una opción que no es válida?
+  
+En este caso, se mostrará un mensaje al cliente avisando que la opción no es válida:
+
+`LA OPCIÓN INGRESADA NO ES VÁLIDA. INTENTE NUEVAMENTE.`
+
+Luego de esto, se mostrará nuevamente el Menú Principal. 
+
+
+- Qué pasa si desde el Menú Leer ingreso un comando que no es válido?
+  
+En este caso, se mostrará un mensaje al cliente avisando que el comando no es válido:
+
+`EL COMANDO NO ES VÁLIDA. INTENTE NUEVAMENTE.`
+
+Luego de esto, se mostrará nuevamente el Menú Leer.
+
+
+- Qué pasa si desde el Menú Ingresar ingreso un comando que no es válido?
+  
+En este caso, el servidor responderá al cliente con el mensaje:
+
+`Comando desconocido.`
+
+Luego de esto, se mostrará nuevamente el Menú Principal.
 
 
 
