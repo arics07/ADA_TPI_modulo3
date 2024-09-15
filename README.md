@@ -96,6 +96,11 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
   
   `ADD PUBLISHER {"name": "Planeta", "counrtry": "Espana"}`
 
+- **Cómo sé si el item que ingresó se guardó adecuadamente?**
+  El servidor responderá al cliente con el mensaje:
+
+  `Libro añadido correctamente.`
+  
 
 ### Errores al Agregar Información 🚨
 
@@ -122,6 +127,15 @@ Luego de esto, se mostrará nuevamente el Menú Leer.
 En este caso, el servidor responderá al cliente con el mensaje:
 
 `Comando desconocido.`
+
+Luego de esto, se mostrará nuevamente el Menú Principal.
+
+
+- Qué pasa si desde el Menú Ingresar ingreso la información con un formato que no es JSON?
+  
+En este caso, el servidor responderá al cliente con el mensaje:
+
+`ERROR: Formato de JSON no válido.`
 
 Luego de esto, se mostrará nuevamente el Menú Principal.
 
