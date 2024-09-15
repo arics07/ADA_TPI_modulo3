@@ -18,17 +18,29 @@ Ejecutar el programa con el comando:
 
 ## Estructura del proyecto 🗺️
 
-![Mapa del proyecto](https://i.imgur.com/E7LwQ0v.png)
-<!--
+![Mapa del proyecto](https://i.imgur.com/pACtBvk.png)
+
+
+
 ## Uso 🔧
 
 A continuación se presentan algunos comandos que se pueden usar para interactuar con la API a través del cliente TCP:
 
 - **Obtener Libros:**
-- 
--
+  
+  `GET BOOKS`
+  
+- **Obtener Autores:**
 
--->
+  `GET AUTHORS`
+  
+- **Obtener Editoriales**
+
+  `GET PUBLISHERS`
+
+
+
+
 ## Créditos 🏆
 
 Este proyecto fue desarrollado por [Ariadna](https://github.com/arics07).
