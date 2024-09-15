@@ -168,4 +168,4 @@ Este proyecto fue desarrollado por [Ariadna](https://github.com/arics07).
 
 
 
-![Sticker de Gatito](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif) 
+![Sticker](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif) 
