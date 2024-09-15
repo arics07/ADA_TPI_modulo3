@@ -77,7 +77,7 @@ Al ingresar **2** desde el Menú Principal, se mostrará el Menú Escribir:
 
 ![Menú Escribir](https://i.imgur.com/JqgM5O8.png)
 
-El menú muestra al cliente los distintos comandos disponibles, según el tipo de información que desea ingresar. Además, incluye ejemplos para guiar al cliente en el formato correcto de los comandos.
+El menú muestra al cliente los distintos comandos disponibles, según el tipo de información que desea ingresar. Además, incluye ejemplos para guiar al cliente en el formato correcto de los comandos. Cada comando está diseñado para agregar un solo ítem (libro, autor o editorial) a la vez.
 
 A continuación se presentan algunos comandos que se pueden usar para interactuar con la API a través del cliente TCP:
 
@@ -143,8 +143,10 @@ Luego de esto, se mostrará nuevamente el Menú Principal.
 
 ## Créditos 🏆
 
+Profesora: Bernardita Bauque 👩‍💻
+
 Este proyecto fue desarrollado por [Ariadna](https://github.com/arics07).
 
-Profesora: Bernardita Bauque 👩‍💻
+
 
 ![Sticker de Gatito](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif) 
