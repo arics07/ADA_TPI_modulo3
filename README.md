@@ -45,6 +45,16 @@ Una vez que la aplicación esté en ejecución, verás el Menú Principal:
 
 ![Menú Principal](https://i.imgur.com/aVXhn2p.png)
 
+
+
+### Opción 1: Leer
+
+Al ingresar **1** desde el Menú Principal, se mostrará el Menú Leer: 
+
+![Menú Leer](https://i.imgur.com/NdzPwT8.png)
+
+El menú muestra al cliente los distintos comandos que puede ingresar, dependiendo de la información que desee obtener.
+
 A continuación se presentan algunos comandos que se pueden usar para interactuar con la API a través del cliente TCP:
 
 - **Obtener Libros:**
@@ -59,6 +69,32 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
 
   `GET PUBLISHERS`
 
+  
+
+### Opción 2: Escribir
+
+Al ingresar **2** desde el Menú Principal, se mostrará el Menú Escribir: 
+
+![Menú Escribir](https://i.imgur.com/JqgM5O8.png)
+
+El menú muestra al cliente los distintos comandos disponibles, según el tipo de información que desea ingresar. Además, incluye ejemplos para guiar al cliente en el formato correcto de los comandos.
+
+A continuación se presentan algunos comandos que se pueden usar para interactuar con la API a través del cliente TCP:
+
+- **Ingresar un Libro:**
+  Por ejemplo, si se quiere ingresar el libro de título Emma, publicado en 1815, cuya autora es Jane Austen y cuya editorial es Alma, el comando que se debe ingresar es:
+  
+  `ADD BOOK {"title": "Emma", "publicationYear": 1815, "author": "Jane Austen", "publisher": "Alma"}`
+  
+- **Ingresar un Autore:**
+  Por ejemplo, si se quiere ingresar el autor Ray Bradbury de Estados Unidos, el comando que se debe ingresar es:
+
+  `ADD AUTHOR {"name": "Ray Bradbury", "country": "Estados Unidos"}`
+  
+- **Ingresar una Editorial**
+  Por ejemplo, si se quiere ingresar la editorial Planeta de España, el comando que se debe ingresar es:
+  
+  `ADD PUBLISHER {"name": "Planeta", "counrtry": "Espana"}`
 
 
 
