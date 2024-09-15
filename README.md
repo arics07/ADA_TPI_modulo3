@@ -8,7 +8,13 @@ La API permite manejar datos relacionados con libros, autores y editoriales, y p
 
 ## Instrucciones para Ejecutar 🚀 
 
-npm start
+Moverse a la carpeta book-api: 
+
+`cd Integrator_Salomone/book-api`
+
+Ejecutar el programa con el comando:
+
+`npm start`
 
 ## Estructura del proyecto 🗺️
 
@@ -26,5 +32,7 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
 ## Créditos 🏆
 
 Este proyecto fue desarrollado por [Ariadna](https://github.com/arics07).
+
+Profesora: Bernardita Bauque 👩‍💻
 
 ![Sticker de Gatito](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif) 
