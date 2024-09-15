@@ -86,7 +86,7 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
   
   `ADD BOOK {"title": "Emma", "publicationYear": 1815, "author": "Jane Austen", "publisher": "Alma"}`
   
-- **Ingresar un Autore:**
+- **Ingresar un Autor:**
   Por ejemplo, si se quiere ingresar el autor Ray Bradbury de Estados Unidos, el comando que se debe ingresar es:
 
   `ADD AUTHOR {"name": "Ray Bradbury", "country": "Estados Unidos"}`
@@ -94,7 +94,7 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
 - **Ingresar una Editorial**
   Por ejemplo, si se quiere ingresar la editorial Planeta de España, el comando que se debe ingresar es:
   
-  `ADD PUBLISHER {"name": "Planeta", "counrtry": "Espana"}`
+  `ADD PUBLISHER {"name": "Planeta", "country": "Espana"}`
 
 - **Cómo sé si el item que ingresó se guardó adecuadamente?**
   El servidor responderá al cliente con el mensaje:
@@ -133,9 +133,9 @@ Luego de esto, se mostrará nuevamente el Menú Principal.
 
 - Qué pasa si desde el Menú Ingresar ingreso la información con un formato que no es JSON?
   
-En este caso, el servidor responderá al cliente con el mensaje:
+En este caso, el servidor responderá al cliente con el mensaje: 
 
-`ERROR: Formato de JSON no válido.`
+`ERROR: Formato no válido. Los datos ingresados deben tener formato JSON.` 
 
 Luego de esto, se mostrará nuevamente el Menú Principal.
 
