@@ -140,6 +140,25 @@ En este caso, el servidor responderá al cliente con el mensaje:
 Luego de esto, se mostrará nuevamente el Menú Principal.
 
 
+### Cómo se guarda la información en los archivos JSON?
+La aplicación guarda la información de los items (libros, autores y editoriales) en archivos JSON. A cada item se le asigna un id único utilizando la versión 4 de UUID (UUID v4), lo que garantiza que los identificadores sean únicos y aleatorios.
+
+A continuación se muestra un ejemplo de cada uno de los items que se pueden guardar: libro, autor y editorial.
+
+Libro:
+
+![Book JSON](https://i.imgur.com/NDP5DiQ.png)    
+
+Autor:
+
+![Author JSON](https://i.imgur.com/wSk5V9w.png)    
+
+Editorial: 
+
+![Publisher JSON](https://i.imgur.com/QbnCchl.png)
+
+
+
 
 ## Créditos 🏆
 
