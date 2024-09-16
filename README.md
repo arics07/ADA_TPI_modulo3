@@ -43,7 +43,7 @@ Esto iniciará la aplicación y deberías ver el servidor corriendo en el puerto
 
 Una vez que la aplicación esté en ejecución, verás el Menú Principal:
 
-![Menú Principal](https://i.imgur.com/aVXhn2p.png)
+![Menú Principal](https://i.imgur.com/LPFYwlw.png)
 
 
 
@@ -100,7 +100,15 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
   El servidor responderá al cliente con el mensaje:
 
   `Libro añadido correctamente.`
-  
+
+
+### Opción 3: Buscar libro por título
+Al ingresar **3** desde el Menú Principal, el cliente podrá buscar libros por su título. El sistema solicitará que el cliente ingrese el título del libro que busca, y luego devolverá todas las coincidencias encontradas.
+
+
+### Opción 4: Buscar autores po país
+Al ingresar **4** desde el Menú Principal, el cliente podrá buscar autores por país. El sistema solicitará que el cliente ingrese el país, y luego devolverá la información de los autores de ese país.
+
 
 ### Errores al Agregar Información 🚨
 
