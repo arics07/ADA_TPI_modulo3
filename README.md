@@ -102,14 +102,14 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
   `Libro añadido correctamente.`
 
 
-### Opción 3: Buscar libro por título
+### Opción 3: Buscar libro por título 🔎
 Al ingresar **3** desde el Menú Principal, el cliente podrá buscar libros por su título. El sistema solicitará que el cliente ingrese el título del libro que busca, y luego devolverá todas las coincidencias encontradas. Si no se encuentran libros con el título buscado, el servidor enviará el mensaje:
 
 `No se encontraron resultados para esta búsqueda`
 
 
 
-### Opción 4: Buscar autores por país
+### Opción 4: Buscar autores por país 🔎
 Al ingresar **4** desde el Menú Principal, el cliente podrá buscar autores por país. El sistema solicitará que el cliente ingrese el país, y luego devolverá la información de los autores de ese país. Si no se encuentran autores del país ingresado, el servidor enviará el mensaje:
 
 `No se encontraron resultados para esta búsqueda`
@@ -153,7 +153,7 @@ En este caso, el servidor responderá al cliente con el mensaje:
 Luego de esto, se mostrará nuevamente el Menú Principal.
 
 
-### Cómo se guarda la información en los archivos JSON?
+### Cómo se guarda la información en los archivos JSON? 💾
 La aplicación guarda la información de los items (libros, autores y editoriales) en archivos JSON. A cada item se le asigna un id único utilizando la versión 4 de UUID (UUID v4), lo que garantiza que los identificadores sean únicos y aleatorios.
 
 A continuación se muestra un ejemplo de cada uno de los items que se pueden guardar: libro, autor y editorial.
