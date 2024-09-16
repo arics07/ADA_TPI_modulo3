@@ -130,7 +130,7 @@ Luego de esto, se mostrará nuevamente el Menú Principal.
   
 En este caso, se mostrará un mensaje al cliente avisando que el comando no es válido:
 
-`EL COMANDO NO ES VÁLIDA. INTENTE NUEVAMENTE.`
+`EL COMANDO NO ES VÁLIDO. INTENTE NUEVAMENTE.`
 
 Luego de esto, se mostrará nuevamente el Menú Leer.
 
