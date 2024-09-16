@@ -103,11 +103,16 @@ A continuación se presentan algunos comandos que se pueden usar para interactua
 
 
 ### Opción 3: Buscar libro por título
-Al ingresar **3** desde el Menú Principal, el cliente podrá buscar libros por su título. El sistema solicitará que el cliente ingrese el título del libro que busca, y luego devolverá todas las coincidencias encontradas.
+Al ingresar **3** desde el Menú Principal, el cliente podrá buscar libros por su título. El sistema solicitará que el cliente ingrese el título del libro que busca, y luego devolverá todas las coincidencias encontradas. Si no se encuentran libros con el título buscado, el servidor enviará el mensaje:
+
+`No se encontraron resultados para esta búsqueda`
 
 
-### Opción 4: Buscar autores po país
-Al ingresar **4** desde el Menú Principal, el cliente podrá buscar autores por país. El sistema solicitará que el cliente ingrese el país, y luego devolverá la información de los autores de ese país.
+
+### Opción 4: Buscar autores por país
+Al ingresar **4** desde el Menú Principal, el cliente podrá buscar autores por país. El sistema solicitará que el cliente ingrese el país, y luego devolverá la información de los autores de ese país. Si no se encuentran autores del país ingresado, el servidor enviará el mensaje:
+
+`No se encontraron resultados para esta búsqueda`
 
 
 ### Errores al Agregar Información 🚨
