@@ -1,0 +1,27 @@
+[
+  {
+    "id": "d0b08591-de50-4c44-aeec-317ce102a44d",
+    "name": "Agatha Christie",
+    "country": "Inglaterra"
+  },
+  {
+    "id": "5805c85d-8186-4b53-b0b4-668578be7eb1",
+    "name": "Umberto Eco",
+    "country": "Italia"
+  },
+  {
+    "id": "03a476e6-ed42-4952-a482-da6b6ec6a5ba",
+    "name": "J.K. Rowling",
+    "country": "Inglaterra"
+  },
+  {
+    "id": "28f05146-4c4c-4c84-9733-caf1da601b48",
+    "name": "Arthur Conan Doyle",
+    "country": "Escocia"
+  },
+  {
+    "id": "5a94aa39-16d0-4a7a-8ab7-56ba229e206f",
+    "name": "Ernesto Sabato",
+    "country": "Argentina"
+  }
+]

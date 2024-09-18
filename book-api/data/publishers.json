@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8ca9d6f7-92e2-404e-b26a-8d22d820d69c",
+    "name": "Penguin Random House",
+    "country": "Estados Unidos"
+  },
+  {
+    "id": "74806f67-9ac6-4622-84c9-b78581784a12",
+    "name": "HarperCollins",
+    "country": "Estados Unidos"
+  },
+  {
+    "id": "f2ba8f07-a16a-4a33-94d1-ee2b5911183d",
+    "name": "Planeta",
+    "country": "Espana"
+  },
+  {
+    "id": "36fe088d-2e4e-4b15-a4e3-650045c6fa7d",
+    "name": "Editorial Sudamericana",
+    "country": "Argentina"
+  }
+]

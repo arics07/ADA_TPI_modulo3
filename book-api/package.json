@@ -1,0 +1,23 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "description": "Gestion de biblioteca",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arics07/ADA_TPI_modulo3.git"
+  },
+  "author": "Ariadna Salomone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arics07/ADA_TPI_modulo3/issues"
+  },
+  "homepage": "https://github.com/arics07/ADA_TPI_modulo3#readme",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
